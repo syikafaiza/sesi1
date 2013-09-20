@@ -1,0 +1,13 @@
+06 September 2013
+PR : Menulis langkah-langkah install git, dan fungsi perintah git
+
+Fungsi Perintah Git
+
+1. Git Clone	: Menduplikasi sebuah repositori pada direktori baru.
+2. Git Add	: Menambahkan isi file ke index
+3. Git Commit	: Merekam perubahan ke repositori.
+4. Git Diff	: Menampilkan perubahan commits, commit dan working tree, dll
+5. Git Init	: Buat repositori git kosong atau menginisialisasi ulang yang sudah ada.
+6. Git Push	: 
+7. Git Reset	: 
+
